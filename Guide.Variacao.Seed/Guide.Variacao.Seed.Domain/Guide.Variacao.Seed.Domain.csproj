@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="HLLF.Guide.Variacao.Core.DataBase" Version="1.0.1" />
-    <PackageReference Include="HLLF.Guide.Variacao.Core.Domain" Version="1.0.1" />
+    <PackageReference Include="HLLF.Guide.Variacao.Core.DataBase" Version="1.0.5" />
+    <PackageReference Include="HLLF.Guide.Variacao.Core.Domain" Version="1.0.5" />
   </ItemGroup>
 
   <ItemGroup>

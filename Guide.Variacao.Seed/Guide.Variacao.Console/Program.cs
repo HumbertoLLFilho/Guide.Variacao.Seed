@@ -13,6 +13,8 @@ internal class Program
         var builder = Host.CreateApplicationBuilder(args)
             .Configure();
 
+        AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
+
         var host = builder.Build();
         var serviceProvide = host.Services;
 
