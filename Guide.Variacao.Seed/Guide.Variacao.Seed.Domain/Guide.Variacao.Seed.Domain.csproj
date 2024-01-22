@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HLLF.Guide.Variacao.Core.DataBase" Version="1.0.1" />
+    <PackageReference Include="HLLF.Guide.Variacao.Core.Domain" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Guide.Variacao.Seed.Core\Guide.Variacao.Seed.Core.csproj" />
+    <ProjectReference Include="..\Guide.Variacao.Seed.Infra\Guide.Variacao.Seed.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
