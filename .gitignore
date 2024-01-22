@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Guide.Variacao.Seed/Guide.Variacao.Console/Appsettings.json
