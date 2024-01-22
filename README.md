@@ -1,4 +1,4 @@
-# Guide.Variacao.Core
+# Guide.Variacao.Seed
 
 ## Funcionamento
 
