@@ -19,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Core", "04-Core", "{E868
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guide.Variacao.Seed.Core", "Guide.Variacao.Seed.Core\Guide.Variacao.Seed.Core.csproj", "{0C4A86BC-B7B8-45EA-823C-70E7A5755DB7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-Tests", "05-Tests", "{1B20EEA2-7BED-40A0-9658-8FDABF03BB31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guide.Variacao.Seed.Tests", "Guide.Variacao.Seed.Tests\Guide.Variacao.Seed.Tests.csproj", "{3FF8550A-4D4A-4070-999D-FC7D5C5FB555}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,10 @@ Global
 		{0C4A86BC-B7B8-45EA-823C-70E7A5755DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C4A86BC-B7B8-45EA-823C-70E7A5755DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C4A86BC-B7B8-45EA-823C-70E7A5755DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF8550A-4D4A-4070-999D-FC7D5C5FB555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF8550A-4D4A-4070-999D-FC7D5C5FB555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF8550A-4D4A-4070-999D-FC7D5C5FB555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF8550A-4D4A-4070-999D-FC7D5C5FB555}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +58,7 @@ Global
 		{B861679C-274E-48D9-87BE-302CCA1C9B07} = {9F4B85F1-FB3E-4D93-893A-A27D8B7AC5FD}
 		{9EB245A3-6FBD-41C2-AE13-8DAA39A01383} = {4CD6656A-01F2-4D8F-803B-304A63703BCF}
 		{0C4A86BC-B7B8-45EA-823C-70E7A5755DB7} = {E8683615-56BF-43BB-B6BB-D54FCEB7A3A9}
+		{3FF8550A-4D4A-4070-999D-FC7D5C5FB555} = {1B20EEA2-7BED-40A0-9658-8FDABF03BB31}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F55A5C07-1C75-4C98-9529-F2C1EF6CD316}
