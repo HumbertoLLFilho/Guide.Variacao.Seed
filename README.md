@@ -17,7 +17,7 @@ Seguindo o exemplo:
 },
 ```
 
-Devemos trocar o 'Id=MeuUsuarioPadrao' pelo usuario admin do local e 'Password=123' pela sua senha,
+Devemos trocar o `Id=MeuUsuarioPadrao` pelo usuario admin do local e `Password=123` pela sua senha,
 o banco e estrutura são criados pelo próprio *EF Core* :tada:
 
 ### Execução
